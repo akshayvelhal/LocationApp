@@ -1,0 +1,24 @@
+2019-05-29 18:40:09,999 INFO c.x.l.ApplicationTest [main] Starting ApplicationTest on IN-IT1934.local with PID 19522 (started by akshay.velhal in /Users/akshay.velhal/Work/LocationApp)
+2019-05-29 18:40:10,003 INFO c.x.l.ApplicationTest [main] No active profile set, falling back to default profiles: default
+2019-05-29 18:40:13,896 INFO c.x.l.ApplicationTest [main] Started ApplicationTest in 4.787 seconds (JVM running for 16.982)
+2019-05-29 18:44:13,525 INFO c.x.l.ApplicationTest [main] Starting ApplicationTest on IN-IT1934.local with PID 20303 (started by akshay.velhal in /Users/akshay.velhal/Work/LocationApp)
+2019-05-29 18:44:13,537 INFO c.x.l.ApplicationTest [main] No active profile set, falling back to default profiles: default
+2019-05-29 18:44:17,349 INFO c.x.l.ApplicationTest [main] Started ApplicationTest in 4.641 seconds (JVM running for 12.234)
+2019-05-29 18:45:51,874 INFO c.x.l.ApplicationTest [main] Starting ApplicationTest on IN-IT1934.local with PID 20314 (started by akshay.velhal in /Users/akshay.velhal/Work/LocationApp)
+2019-05-29 18:45:51,879 INFO c.x.l.ApplicationTest [main] No active profile set, falling back to default profiles: default
+2019-05-29 18:45:55,607 INFO c.x.l.ApplicationTest [main] Started ApplicationTest in 4.404 seconds (JVM running for 12.443)
+2019-05-29 18:50:37,129 INFO c.x.l.ApplicationTest [main] Starting ApplicationTest on IN-IT1934.local with PID 21091 (started by akshay.velhal in /Users/akshay.velhal/Work/LocationApp)
+2019-05-29 18:50:37,132 INFO c.x.l.ApplicationTest [main] No active profile set, falling back to default profiles: default
+2019-05-29 18:50:41,588 INFO c.x.l.ApplicationTest [main] Started ApplicationTest in 5.253 seconds (JVM running for 12.455)
+2019-05-29 18:52:58,162 INFO c.x.l.ApplicationTest [main] Starting ApplicationTest on IN-IT1934.local with PID 21127 (started by akshay.velhal in /Users/akshay.velhal/Work/LocationApp)
+2019-05-29 18:52:58,184 INFO c.x.l.ApplicationTest [main] No active profile set, falling back to default profiles: default
+2019-05-29 18:53:03,267 INFO c.x.l.ApplicationTest [main] Started ApplicationTest in 6.196 seconds (JVM running for 12.494)
+2019-05-29 18:54:36,498 INFO c.x.l.ApplicationTest [main] Starting ApplicationTest on IN-IT1934.local with PID 21148 (started by akshay.velhal in /Users/akshay.velhal/Work/LocationApp)
+2019-05-29 18:54:36,501 INFO c.x.l.ApplicationTest [main] No active profile set, falling back to default profiles: default
+2019-05-29 18:54:40,816 INFO c.x.l.ApplicationTest [main] Started ApplicationTest in 5.122 seconds (JVM running for 11.41)
+2019-05-29 18:54:53,744 INFO c.x.l.Application [main] Starting Application on IN-IT1934.local with PID 21162 (/Users/akshay.velhal/Work/LocationApp/target/classes started by akshay.velhal in /Users/akshay.velhal/Work/LocationApp)
+2019-05-29 18:54:53,745 INFO c.x.l.Application [main] No active profile set, falling back to default profiles: default
+2019-05-29 18:54:57,231 INFO c.x.l.Application [main] Started Application in 3.915 seconds (JVM running for 4.64)
+2019-05-29 18:56:23,346 INFO c.x.l.Application [main] Starting Application on IN-IT1934.local with PID 21277 (/Users/akshay.velhal/Work/LocationApp/target/classes started by akshay.velhal in /Users/akshay.velhal/Work/LocationApp)
+2019-05-29 18:56:23,348 INFO c.x.l.Application [main] No active profile set, falling back to default profiles: default
+2019-05-29 18:56:26,900 INFO c.x.l.Application [main] Started Application in 4.032 seconds (JVM running for 5.117)
